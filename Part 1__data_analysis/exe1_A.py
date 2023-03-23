@@ -24,7 +24,7 @@ stroke_des=df['stroke'].describe()
 
 
 #print(id_des)
-print("\n*******************************")
-print("*******************************\n")
+print("\n*****************************")
+print("*****************************\n")
 print(residence_des)
 print(df['Residence_type'])
